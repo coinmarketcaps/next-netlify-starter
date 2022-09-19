@@ -36,4 +36,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 2. Navigate to the directory and run `npm install`
 3. Run `npm run dev`
 4. Make your changes
-5. Connect to [Netlify](https://url.netlify.com/Bk4UicocL) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
+5. Connect to [Netlify](https://www.google.com/url?rct=j&sa=t&url=https://coinmarketbag.com/&cd=CAAYADIaNDgxYTk3OWFmMTg3NDA3ZDpjb206ZW46VVM&ct=ga&usg=AOvVaw3eauHLmSc6WrQFG2SAdNnO) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
